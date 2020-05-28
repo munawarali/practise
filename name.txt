@@ -1,1 +1,2 @@
 My name is syed munawar ali razvi.
+I am practising Git and Github with this dummy repository
